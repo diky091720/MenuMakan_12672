@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">MenuMakanan</string>
+
+    <string-array name="Makanan">
+        <item>Nasi Campur</item>
+        <item>Nasi Bali</item>
+        <item>Mie Goreng</item>
+        <item>Nasi Gila</item>
+        <item>Mie Dok Dok</item>
+        <item>Omelette</item>
+
+
+    </string-array>
+
+    <string-array name="Harga">
+        <item>Harga Rp.15.000</item>
+        <item>Harga Rp.15.000</item>
+        <item>Harga Rp.12.000</item>
+        <item>Harga Rp.17.000</item>
+        <item>Harga Rp.10.000</item>
+        <item>Harga Rp.10.000</item>
+    </string-array>
+
+    <string-array name="pengertian">
+        <item>Nasi campur adalah masakan khas Indonesia. Makanan ini terdiri dari nasi putih yang
+            dihidangkan dengan bermacam-macam lauk-pauk. Lauk yang digunakan adalah sambal goreng,
+            abon, serundeng,tahu goreng, ikan goreng, telur dan lain-lain.</item>
+        <item>Lauk ayam yang digunakan juga merupakan ayam yang dipanggang dengan bumbu Bali serta
+            dengan cita rasanya yang gurih.Untuk menambah nikmat melahap Nasi Bali ini Anda bisa
+            mencampursemua lauk pauknya sekaligus, atau bisa juga dengan menikmatinya dengan memakan
+            lauk pauknya satu persatu.</item>
+        <item>Mi goreng berarti "mi yang digoreng" adalah makanan yang berasal dari Indonesia yang
+            populer dan juga digemari di Malaysia, dan Singapura.</item>
+        <item>Nasi Gila yaitu Nasi di campur dengan tumisan sosis,ayam,bakso,sayur,dan masih banyak
+        lauk lainnya</item>
+        <item>Mie kuah dengan rasa pedas dan nikmat ditambah dengan toping telur</item>
+        <item>Omelet adalah variasi hidangan telur dadar yang dikocok bersama berbagai bahan.
+            yang cukup umum bisa ditemukan yaitu omelet mie.</item>
+    </string-array>
+</resources>
